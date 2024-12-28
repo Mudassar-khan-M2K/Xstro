@@ -8,7 +8,7 @@ const config = {
 	BOT_INFO: process.env.BOT_INFO || 'Astro;Xstro_Bot',
 	STICKER_PACK: process.env.STICKER_PACK || 'Xstro;Md',
 	WARN_COUNT: process.env.WARN_COUNT || 3,
-	TIME_ZONE: process.env.TIME_ZONE || 'Africa/Lagos',
+	TIME_ZONE: process.env.TIME_ZONE || 'Mianwali/Pakistan',
 	VERSION: '1.1.9',
 };
 export { config };
